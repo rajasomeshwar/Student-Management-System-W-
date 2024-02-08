@@ -1,0 +1,5 @@
+1 3
+* is pointer,is it true or false?
+stack follows a principle LIFO ,it is falase?
+free() allocate memory for dynamic?
+100

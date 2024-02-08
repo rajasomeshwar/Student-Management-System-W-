@@ -1,0 +1,42 @@
+NAME- dileep
+ROLLNUMBER- 21EG112C50
+MARKS- 2//3
+DATE AND TIME- Mon Aug 01 19:25:41 2022
+
+TIME REQUIRED TO COMPLETE QUIZ- 0min:51sec
+__________________________________________________________________________________
+NAME- rajasomeshwar
+ROLLNUMBER- 21EG112C04
+MARKS- 2//3
+DATE AND TIME- Sun Aug 07 18:48:51 2022
+
+TIME REQUIRED TO COMPLETE QUIZ- 10min:26sec
+__________________________________________________________________________________
+NAME- rajasomesw
+ROLLNUMBER- 21EG112C04
+MARKS- 2//3
+DATE AND TIME- Sun Aug 07 19:04:40 2022
+
+TIME REQUIRED TO COMPLETE QUIZ- 2min:9sec
+__________________________________________________________________________________
+NAME- ra
+ROLLNUMBER- 21EG112C04
+MARKS- 3//3
+DATE AND TIME- Sun Aug 07 19:07:20 2022
+
+TIME REQUIRED TO COMPLETE QUIZ- 0min:12sec
+__________________________________________________________________________________
+NAME- rajasomeshwar
+ROLLNUMBER- 21EG112C04
+MARKS- 3//3
+DATE AND TIME- Thu Dec 08 19:40:19 2022
+
+TIME REQUIRED TO COMPLETE QUIZ- 0min:26sec
+__________________________________________________________________________________
+NAME- rajasomeshwar
+ROLLNUMBER- 21EG112C04
+MARKS- 1//3
+DATE AND TIME- Tue May 02 12:34:44 2023
+
+TIME REQUIRED TO COMPLETE QUIZ- 0min:43sec
+__________________________________________________________________________________
